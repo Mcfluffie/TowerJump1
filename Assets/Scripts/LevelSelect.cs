@@ -9,4 +9,10 @@ public class LevelSelect : MonoBehaviour
     {
         SceneManager.LoadScene(levelname);
     }
+
+    public void QuitGame()
+    {
+        Debug.Log("I HAVE QUIT");
+        Application.Quit();
+    }
 }
