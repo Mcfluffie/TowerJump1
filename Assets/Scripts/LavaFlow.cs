@@ -8,6 +8,7 @@ public class LavaFlow : MonoBehaviour
     public GameObject lava;
     public float lavaMoveSpeed = 5f;
     public GameObject resetMenu;
+    public GameObject player;
 
 
     // Start is called before the first frame update
@@ -32,6 +33,7 @@ public class LavaFlow : MonoBehaviour
         else
         {
             resetMenu.SetActive(false);
+            Destroy(player);
         }
     }
 
