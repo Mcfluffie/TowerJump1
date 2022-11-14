@@ -37,6 +37,7 @@ public class PlayerSideMove : MonoBehaviour
         {
             dirRight = false;
             dirLeft = true;
+            
         }
         else
         {
@@ -71,17 +72,35 @@ public class PlayerSideMove : MonoBehaviour
             }
         }
     }
-
-
-
-    
-
-
-
-
-
-
-
-
-
 }
+/*
+        Vector3 heading = GameObject.transform.right;
+
+        Ray theRay = new Ray(transform.position, transform.TransformDirection(heading * range));
+        if(Physics.Raycast(theRay, out RaycastHit hit, range))
+        {
+            if (hit.collider.tag == "Ground")
+            {
+                heading *= -1;
+            }
+        }
+        transform.Translate(heading * speed * Time.deltaTime);
+*/
+
+/*      Wall check as function for both directions
+
+        WallCheck(gameObject.transform.right);
+        WallCheck(-gameObject.transform.right);
+        transform.Translate(heading * speed * Time.deltaTime);
+        
+void WallCheck(Vector3 heading){
+        Ray theRay = new Ray(transform.position, transform.TransformDirection(heading * range));
+        if(Physics.Raycast(theRay, out RaycastHit hit, range))
+        {
+            if (hit.collider.tag == "Ground")
+            {
+                heading *= -1;
+            }
+        }
+}*/
+        
