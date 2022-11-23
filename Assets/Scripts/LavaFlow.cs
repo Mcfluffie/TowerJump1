@@ -28,7 +28,6 @@ public class LavaFlow : MonoBehaviour
         if (other.gameObject.tag == "Player")
         {
             resetMenu.SetActive(true);
-
         }
         else
         {
@@ -36,7 +35,5 @@ public class LavaFlow : MonoBehaviour
             Destroy(player);
         }
     }
-
-
 
 }
