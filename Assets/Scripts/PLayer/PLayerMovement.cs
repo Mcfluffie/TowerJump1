@@ -8,6 +8,7 @@ public class PLayerMovement : MonoBehaviour
     public float jumpSpeed = 3f;
     public float jumpsecond = 5f;
     public float jumpDelay = 2f;
+    public Animator anim;
 
     private bool candoublejump;
     private bool canjump;
@@ -41,17 +42,24 @@ public class PLayerMovement : MonoBehaviour
     {
         if (canjump)
         {
+            anim.Play("JUMP-UP");
             canjump = false;
             isjumping = true;
             candoublejump = true;
             rb.AddForce(0, jumpSpeed, 0, ForceMode.Impulse);
+            
         }
         else if(candoublejump)
         {
             rb.AddForce(0, jumpsecond, 0, ForceMode.Impulse);
             candoublejump = false;
+            
         }
 
     }
+
+   
+
+
 
 }

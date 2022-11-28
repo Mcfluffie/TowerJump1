@@ -6,11 +6,21 @@ public class PlayerSideMove : MonoBehaviour
 {
     private bool dirRight = true;
     private bool dirLeft = false;
+    private bool lookR = true;
+    private bool lookL = false;
     public float speed = 2.0f;
     public float moveposL = 4f;
     public float moveposR = -4f;
 
     public float range = 5f;
+    public GameObject player;
+
+ 
+
+    public void Start()
+    {
+        
+    }
 
 
     void Update()
@@ -31,12 +41,18 @@ public class PlayerSideMove : MonoBehaviour
         if (dirLeft)
             transform.Translate(-Vector2.right * speed * Time.deltaTime);
 
+        if (lookR)
+            player.transform.rotation = Quaternion.Euler(0, 180, 0);
+        if (lookL)
+            player.transform.rotation = Quaternion.Euler(0, 0, 0);
+
         // left movement, this makes the player move left until the moveposL float is hit, once player hits that float the dirright function is called true and dirleft is called false, 
         //the else if raycast function is looking out for the ground tag and should the raycast hit the edge of ground it will bounce the player off giving them a little jump boost 
         if (transform.position.x >= moveposL)
         {
             dirRight = false;
             dirLeft = true;
+            
             
         }
         else
@@ -48,6 +64,9 @@ public class PlayerSideMove : MonoBehaviour
                     Debug.Log("Turning");
                     dirRight = false;
                     dirLeft = true;
+                    lookR = false;
+                    lookL = true;
+                  
                 }
             }
         }
@@ -58,6 +77,7 @@ public class PlayerSideMove : MonoBehaviour
         {
             dirRight = true;
             dirLeft = false;
+           
         }
         else
         {
@@ -68,11 +88,40 @@ public class PlayerSideMove : MonoBehaviour
                     Debug.Log("Turning");
                     dirRight = true;
                     dirLeft = false;
+                    lookR = true;
+                    lookL = false;
+                   
                 }
             }
         }
     }
+
+    
+
+
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*
         Vector3 heading = GameObject.transform.right;
 
@@ -103,4 +152,4 @@ void WallCheck(Vector3 heading){
             }
         }
 }*/
-        
+
