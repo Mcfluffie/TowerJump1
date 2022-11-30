@@ -42,7 +42,7 @@ public class PLayerMovement : MonoBehaviour
     {
         if (canjump)
         {
-            anim.Play("JUMP-UP");
+            anim.Play("Jump");
             canjump = false;
             isjumping = true;
             candoublejump = true;
@@ -51,6 +51,7 @@ public class PLayerMovement : MonoBehaviour
         }
         else if(candoublejump)
         {
+            anim.Play("Jump");
             rb.AddForce(0, jumpsecond, 0, ForceMode.Impulse);
             candoublejump = false;
             
