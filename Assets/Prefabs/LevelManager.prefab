@@ -5385,7 +5385,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   jumpSpeed: 8
   jumpsecond: 8
-  jumpDelay: 2
+  jumpDelay: 1.5
   anim: {fileID: 1134406443463038173}
 --- !u!114 &5243536387577908935
 MonoBehaviour:
