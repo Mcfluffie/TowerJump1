@@ -97,7 +97,7 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 0}
+  m_LightingDataAsset: {fileID: 112000000, guid: e6e7f590642b5474fb01515d1a81df35, type: 2}
   m_LightingSettings: {fileID: 0}
 --- !u!196 &4
 NavMeshSettings:
@@ -2951,7 +2951,7 @@ Light:
   m_Type: 1
   m_Shape: 0
   m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
-  m_Intensity: 1
+  m_Intensity: 0.6
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -8580,7 +8580,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5243536387024535648, guid: a863da9f04ef548429326dc9fd353729, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: Nick Level 1
+      value: EndlessRun
       objectReference: {fileID: 0}
     - target: {fileID: 5243536387024535649, guid: a863da9f04ef548429326dc9fd353729, type: 3}
       propertyPath: m_AnchoredPosition.x
@@ -8612,7 +8612,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5243536387197631534, guid: a863da9f04ef548429326dc9fd353729, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: Nick Level 1
+      value: EndlessRun
       objectReference: {fileID: 0}
     - target: {fileID: 5243536387197631535, guid: a863da9f04ef548429326dc9fd353729, type: 3}
       propertyPath: m_AnchoredPosition.x
@@ -8656,7 +8656,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5243536387332125807, guid: a863da9f04ef548429326dc9fd353729, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: Nick Level 1
+      value: EndlessRun
       objectReference: {fileID: 0}
     - target: {fileID: 5243536387577908934, guid: a863da9f04ef548429326dc9fd353729, type: 3}
       propertyPath: jumpDelay
@@ -8812,7 +8812,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5243536387921662964, guid: a863da9f04ef548429326dc9fd353729, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: Nick Level 1
+      value: EndlessRun
       objectReference: {fileID: 0}
     - target: {fileID: 5243536387921662965, guid: a863da9f04ef548429326dc9fd353729, type: 3}
       propertyPath: m_AnchoredPosition.x
@@ -8856,7 +8856,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5243536388112558167, guid: a863da9f04ef548429326dc9fd353729, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: Nick Level 1
+      value: EndlessRun
       objectReference: {fileID: 0}
     - target: {fileID: 5243536388149047804, guid: a863da9f04ef548429326dc9fd353729, type: 3}
       propertyPath: m_AnchoredPosition.x
@@ -8868,7 +8868,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5243536388149047807, guid: a863da9f04ef548429326dc9fd353729, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: Nick Level 1
+      value: EndlessRun
       objectReference: {fileID: 0}
     - target: {fileID: 5243536388232257922, guid: a863da9f04ef548429326dc9fd353729, type: 3}
       propertyPath: m_IsActive
@@ -8952,7 +8952,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5243536388864460334, guid: a863da9f04ef548429326dc9fd353729, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: Nick Level 1
+      value: EndlessRun
       objectReference: {fileID: 0}
     - target: {fileID: 5243536388864460335, guid: a863da9f04ef548429326dc9fd353729, type: 3}
       propertyPath: m_AnchoredPosition.x
@@ -8964,7 +8964,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5243536388935942172, guid: a863da9f04ef548429326dc9fd353729, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: Nick Level 1
+      value: EndlessRun
       objectReference: {fileID: 0}
     - target: {fileID: 5243536388935942173, guid: a863da9f04ef548429326dc9fd353729, type: 3}
       propertyPath: m_AnchoredPosition.x
@@ -9004,7 +9004,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5243536388987153717, guid: a863da9f04ef548429326dc9fd353729, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: Nick Level 1
+      value: EndlessRun
       objectReference: {fileID: 0}
     - target: {fileID: 5243536389005778814, guid: a863da9f04ef548429326dc9fd353729, type: 3}
       propertyPath: m_SizeDelta.x

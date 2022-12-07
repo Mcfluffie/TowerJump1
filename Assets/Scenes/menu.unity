@@ -603,14 +603,14 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 1348406152}
+        m_TargetAssemblyTypeName: CharacterBuy, Assembly-CSharp
+        m_MethodName: BuyCharacter
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 1
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -1626,10 +1626,10 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: Store, Assembly-CSharp
-        m_MethodName: clicked
-        m_Mode: 1
+      - m_Target: {fileID: 1348406152}
+        m_TargetAssemblyTypeName: CharacterBuy, Assembly-CSharp
+        m_MethodName: BuyCharacter
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -2273,7 +2273,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.008744478, y: 20.935242}
+  m_AnchoredPosition: {x: 0.008744478, y: 8.18}
   m_SizeDelta: {x: 304.1, y: 83.63}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &256250149
@@ -2435,14 +2435,14 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 1348406152}
+        m_TargetAssemblyTypeName: CharacterBuy, Assembly-CSharp
+        m_MethodName: BuyCharacter
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 4
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -4183,14 +4183,14 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 1348406152}
+        m_TargetAssemblyTypeName: CharacterBuy, Assembly-CSharp
+        m_MethodName: BuyCharacter
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 3
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -4749,14 +4749,14 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 1348406152}
+        m_TargetAssemblyTypeName: CharacterBuy, Assembly-CSharp
+        m_MethodName: BuyCharacter
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 14
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -5115,14 +5115,14 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 1348406152}
+        m_TargetAssemblyTypeName: CharacterBuy, Assembly-CSharp
+        m_MethodName: BuyCharacter
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 5
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -7677,14 +7677,14 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 1348406152}
+        m_TargetAssemblyTypeName: CharacterBuy, Assembly-CSharp
+        m_MethodName: BuyCharacter
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 7
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -8613,14 +8613,14 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 1348406152}
+        m_TargetAssemblyTypeName: CharacterBuy, Assembly-CSharp
+        m_MethodName: BuyCharacter
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 6
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -9146,14 +9146,14 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 1348406152}
+        m_TargetAssemblyTypeName: CharacterBuy, Assembly-CSharp
+        m_MethodName: BuyCharacter
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 8
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -9581,14 +9581,14 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 1348406152}
+        m_TargetAssemblyTypeName: CharacterBuy, Assembly-CSharp
+        m_MethodName: BuyCharacter
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 13
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -9757,14 +9757,14 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 1348406152}
+        m_TargetAssemblyTypeName: CharacterBuy, Assembly-CSharp
+        m_MethodName: BuyCharacter
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 9
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -9969,6 +9969,7 @@ GameObject:
   - component: {fileID: 1348406149}
   - component: {fileID: 1348406151}
   - component: {fileID: 1348406150}
+  - component: {fileID: 1348406152}
   m_Layer: 0
   m_Name: 'character page '
   m_TagString: Untagged
@@ -10051,6 +10052,37 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1348406148}
   m_CullTransparentMesh: 1
+--- !u!114 &1348406152
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1348406148}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 392f73c47d7eaef43b4dc13b50e4a667, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currency: 1000
+  characters:
+  - {fileID: 1609287774424223441, guid: a66ff532da6cb8e49a26a8994aeda7d4, type: 3}
+  - {fileID: 8371950981698849980, guid: a9d978cfd87ac6b42b3d34c952ee736a, type: 3}
+  - {fileID: 3300765388504432402, guid: 4046b94329cea6d49a17d75973a0ee7f, type: 3}
+  - {fileID: 3811562078145934275, guid: d18fec1352c08e34bb16ed27d2bf3a17, type: 3}
+  - {fileID: 7595451159783488303, guid: 7de526814066ef74882b301fd97aeaee, type: 3}
+  - {fileID: 944138014914424235, guid: b6a6c9fc570d8ae4f8969bec25721896, type: 3}
+  - {fileID: 3997637405206407620, guid: 8831e57c64c9f4b44853c3ada4dfb57c, type: 3}
+  - {fileID: 3985140603395430762, guid: 21ec1a918fa95af4e96c77d2f903e62a, type: 3}
+  - {fileID: 2369420308950477296, guid: d122a5b449b0cfc49a395f56b1003034, type: 3}
+  - {fileID: 8453311086184238798, guid: bc3622fc72c346d4d942ea6f68a77303, type: 3}
+  - {fileID: 5044172589967261592, guid: db4c3ade3c111cf4199746702a3c1817, type: 3}
+  - {fileID: 4016033219880160948, guid: f6a1919529dcf684988b6ef681eb3354, type: 3}
+  - {fileID: 4830590098968232378, guid: 5df881ea4b8538648aaa5a17eba5934e, type: 3}
+  - {fileID: 1005448386148153710, guid: 32679c44e2dc4d64dabbcab369ac8ea1, type: 3}
+  - {fileID: 4099622260860281234, guid: 74e285a2ae228374a9ef7bd1b01cbb92, type: 3}
+  characterPrices: 320000006400000064000000c8000000c8000000fa000000fa0000002c0100002c0100002c0100009001000090010000bc020000bc020000e8030000
+  Gems: {fileID: 251992653}
 --- !u!1001 &1351542692
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11201,14 +11233,14 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 1348406152}
+        m_TargetAssemblyTypeName: CharacterBuy, Assembly-CSharp
+        m_MethodName: BuyCharacter
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 11
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -13250,14 +13282,14 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 1348406152}
+        m_TargetAssemblyTypeName: CharacterBuy, Assembly-CSharp
+        m_MethodName: BuyCharacter
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 2
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -14324,14 +14356,14 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 1348406152}
+        m_TargetAssemblyTypeName: CharacterBuy, Assembly-CSharp
+        m_MethodName: BuyCharacter
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 12
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -15500,14 +15532,14 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 1348406152}
+        m_TargetAssemblyTypeName: CharacterBuy, Assembly-CSharp
+        m_MethodName: BuyCharacter
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 10
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0

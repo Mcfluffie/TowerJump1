@@ -222,7 +222,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: Nick Level 2
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &29986467
@@ -1047,7 +1047,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 210593905}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 894784928}
+        m_TargetAssemblyTypeName: LevelSelect, Assembly-CSharp
+        m_MethodName: loadlevel
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: EndlessRun
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &210593905
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3052,7 +3064,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: Nick Level 3
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &671731163
@@ -7332,7 +7344,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: Nick Level 1
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &2087659842

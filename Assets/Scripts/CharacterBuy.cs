@@ -5,16 +5,31 @@ using UnityEngine.UI;
 
 public class CharacterBuy : MonoBehaviour
 {
+    public int currency;
+    public List<GameObject> characters;
+    public List<int> characterPrices;
+    public Text Gems;
 
-    public Text gems;
-    public int gemCount;
-    int gemValue = 1000;
-
- 
-
-    public void subtractGems()
+    void Start()
     {
-        gemCount = 50;
-        gems.text = "gems:" + gemValue;
+        //Initialize shop with character list and their prices
     }
+
+    public void BuyCharacter(int index)
+    {
+        if (currency >= characterPrices[index])
+        {
+            currency -= characterPrices[index];
+            Gems.text = "Gems:" + currency;
+            GameObject character = Instantiate(characters[index]);
+            //Add character to player's inventory or enable character selection in game
+        }
+        else
+        {
+            //Display message that player does not have enough currency
+        }
+    }
+
+
+
 }

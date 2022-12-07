@@ -47,4 +47,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Mitch/Level 7 Mitch.unity
     guid: 4507e960afe87914bb5bbf301ec6cc1d
+  - enabled: 1
+    path: Assets/Scenes/Nicks levels/NIck Level 1.unity
+    guid: 6d18500e1332884469fd00f5d18e9764
+  - enabled: 1
+    path: Assets/Scenes/Nicks levels/NIck Level 2.unity
+    guid: 369967d10768b9b4ba88a76da42e82ad
+  - enabled: 1
+    path: Assets/Scenes/Nicks levels/NIck Level 3.unity
+    guid: 16b7deb15bffb4a4c970ce2dac0c9994
+  - enabled: 1
+    path: Assets/Scenes/Nicks levels/EndlessRun.unity
+    guid: a0656666a7aeb514ead62b8fe7800730
   m_configObjects: {}
