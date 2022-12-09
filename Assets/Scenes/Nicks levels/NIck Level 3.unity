@@ -12239,6 +12239,30 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5187025065338629674, guid: a40b42e40f1129d468a982b1a9f1487e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 37.46
+      objectReference: {fileID: 0}
+    - target: {fileID: 5187025065338629674, guid: a40b42e40f1129d468a982b1a9f1487e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.06
+      objectReference: {fileID: 0}
+    - target: {fileID: 5187025065338629674, guid: a40b42e40f1129d468a982b1a9f1487e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 5187025065338629678, guid: a40b42e40f1129d468a982b1a9f1487e, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5187025065976765542, guid: a40b42e40f1129d468a982b1a9f1487e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -35.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 5187025065976765542, guid: a40b42e40f1129d468a982b1a9f1487e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 29.13
+      objectReference: {fileID: 0}
     - target: {fileID: 6402880582928235628, guid: a40b42e40f1129d468a982b1a9f1487e, type: 3}
       propertyPath: m_Name
       value: PLayerManager

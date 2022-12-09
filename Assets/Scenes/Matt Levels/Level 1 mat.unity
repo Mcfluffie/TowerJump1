@@ -15476,39 +15476,51 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5187025065072105425, guid: a40b42e40f1129d468a982b1a9f1487e, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: 'Level 1 mat '
+      value: Level 1 Mat
+      objectReference: {fileID: 0}
+    - target: {fileID: 5187025065338629674, guid: a40b42e40f1129d468a982b1a9f1487e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.81
+      objectReference: {fileID: 0}
+    - target: {fileID: 5187025065338629674, guid: a40b42e40f1129d468a982b1a9f1487e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.75
       objectReference: {fileID: 0}
     - target: {fileID: 5187025065652722342, guid: a40b42e40f1129d468a982b1a9f1487e, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: 'Level 1 mat '
+      value: Level 1 Mat
       objectReference: {fileID: 0}
     - target: {fileID: 5187025065896874736, guid: a40b42e40f1129d468a982b1a9f1487e, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: 'Level 1 mat '
+      value: Level 1 Mat
+      objectReference: {fileID: 0}
+    - target: {fileID: 5187025065976765542, guid: a40b42e40f1129d468a982b1a9f1487e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -44.84
       objectReference: {fileID: 0}
     - target: {fileID: 5187025066039750127, guid: a40b42e40f1129d468a982b1a9f1487e, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: 'Level 1 mat '
+      value: Level 1 Mat
       objectReference: {fileID: 0}
     - target: {fileID: 5187025066118714369, guid: a40b42e40f1129d468a982b1a9f1487e, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: 'Level 1 mat '
+      value: Level 1 Mat
       objectReference: {fileID: 0}
     - target: {fileID: 5187025066404872023, guid: a40b42e40f1129d468a982b1a9f1487e, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: 'Level 1 mat '
+      value: Level 1 Mat
       objectReference: {fileID: 0}
     - target: {fileID: 5187025066429331778, guid: a40b42e40f1129d468a982b1a9f1487e, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: 'Level 1 mat '
+      value: Level 1 Mat
       objectReference: {fileID: 0}
     - target: {fileID: 5187025066532804837, guid: a40b42e40f1129d468a982b1a9f1487e, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: 'Level 1 mat '
+      value: Level 1 Mat
       objectReference: {fileID: 0}
     - target: {fileID: 5187025066769889191, guid: a40b42e40f1129d468a982b1a9f1487e, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: 'Level 1 mat '
+      value: Level 1 Mat
       objectReference: {fileID: 0}
     - target: {fileID: 6402880582928235628, guid: a40b42e40f1129d468a982b1a9f1487e, type: 3}
       propertyPath: m_Name

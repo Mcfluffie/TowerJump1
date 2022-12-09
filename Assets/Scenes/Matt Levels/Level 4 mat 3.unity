@@ -10990,6 +10990,14 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
       value: Level 4 mat 3
       objectReference: {fileID: 0}
+    - target: {fileID: 5187025065338629674, guid: a40b42e40f1129d468a982b1a9f1487e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.69
+      objectReference: {fileID: 0}
+    - target: {fileID: 5187025065338629674, guid: a40b42e40f1129d468a982b1a9f1487e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.75
+      objectReference: {fileID: 0}
     - target: {fileID: 5187025065652722342, guid: a40b42e40f1129d468a982b1a9f1487e, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
       value: Level 4 mat 3
@@ -10997,6 +11005,14 @@ PrefabInstance:
     - target: {fileID: 5187025065896874736, guid: a40b42e40f1129d468a982b1a9f1487e, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
       value: Level 4 mat 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5187025065976765542, guid: a40b42e40f1129d468a982b1a9f1487e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -34.74
+      objectReference: {fileID: 0}
+    - target: {fileID: 5187025065976765542, guid: a40b42e40f1129d468a982b1a9f1487e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 22.33
       objectReference: {fileID: 0}
     - target: {fileID: 5187025066039750127, guid: a40b42e40f1129d468a982b1a9f1487e, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
