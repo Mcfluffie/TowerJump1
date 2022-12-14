@@ -2842,7 +2842,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 95f10f9f7e641254d97fa21d07edf01e, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.28
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -15602,13 +15602,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5187025064870951048, guid: a40b42e40f1129d468a982b1a9f1487e, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5187025064967599341, guid: a40b42e40f1129d468a982b1a9f1487e, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: -285.5
       objectReference: {fileID: 0}
     - target: {fileID: 5187025064967599341, guid: a40b42e40f1129d468a982b1a9f1487e, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -486.9
+      value: -407
       objectReference: {fileID: 0}
     - target: {fileID: 5187025065072105425, guid: a40b42e40f1129d468a982b1a9f1487e, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
