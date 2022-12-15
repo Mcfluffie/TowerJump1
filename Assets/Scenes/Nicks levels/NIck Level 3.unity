@@ -12375,6 +12375,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: -421
       objectReference: {fileID: 0}
+    - target: {fileID: 5187025065249668766, guid: a40b42e40f1129d468a982b1a9f1487e, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: Nick Level 3
+      objectReference: {fileID: 0}
     - target: {fileID: 5187025065338629674, guid: a40b42e40f1129d468a982b1a9f1487e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 37.46

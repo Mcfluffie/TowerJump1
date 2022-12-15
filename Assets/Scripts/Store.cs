@@ -2,7 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-
+using System.IO;
+using System;
 
 public class Store : MonoBehaviour
 {
@@ -15,7 +16,8 @@ public class Store : MonoBehaviour
     public int Goldperclick4 = 1;
     public int Goldperclick5 = 1;
     public int Goldperclick6 = 1;
-
+    string path, Data;
+    
     public float Cclick = 1;
     public float Cclick2 = 1;
     public float Cclick3 = 1;
@@ -25,6 +27,29 @@ public class Store : MonoBehaviour
 
     private bool buttom = true;
     public GameObject b1,b2, b3, b4, b5, b6;
+    private int pressCount = 0;
+
+
+    public void Start()
+    {
+
+        string data = File.ReadAllText(Application.persistentDataPath + "/Android/obb/com.DeafaultCompany.Tower/data.txt/data.txt");
+        Debug.Log(data);
+        // Create the text file if it doesn't exist
+        if (!File.Exists(Application.persistentDataPath + "/Android/obb/com.DeafaultCompany.Tower/data.txt"))
+        {
+            using (StreamWriter sw = new StreamWriter(Application.persistentDataPath + "/Android/obb/com.DeafaultCompany.Tower/data.txt/data.txt"))
+            {
+                sw.WriteLine("0" + pressCount++);
+                string dataPath = Application.persistentDataPath;
+                string path = Application.persistentDataPath + "/data.json";
+                string Data = System.IO.File.ReadAllText(path);
+                Debug.Log(path);
+            }
+        }
+    }
+
+
 
 
     public void clicked()
@@ -141,6 +166,19 @@ public class Store : MonoBehaviour
         }
     }
 
+    public void OnButtonPress()
+    {
+        // Write the current time to a text file
+        using (StreamWriter sw = new StreamWriter("data.json"))
+        {
 
+            pressCount++;
+            Debug.Log("Writing to data.txt");
+            sw.WriteLine(pressCount);
+            sw.WriteLine(DateTime.Now);
+            string dataPath = Application.persistentDataPath + "/Android/obb/com.DeafaultCompany.Tower/data.txt";
+            Debug.Log(dataPath);
+        }
+    }
 
 }

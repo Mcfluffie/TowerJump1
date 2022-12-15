@@ -311,6 +311,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Bridge_01 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 1703676809739110, guid: 097c5a4d264cb6345a838634488be3a2, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 4329293484498010, guid: 097c5a4d264cb6345a838634488be3a2, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -440,6 +444,10 @@ PrefabInstance:
     - target: {fileID: 1703676809739110, guid: 097c5a4d264cb6345a838634488be3a2, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Bridge_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1703676809739110, guid: 097c5a4d264cb6345a838634488be3a2, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 4329293484498010, guid: 097c5a4d264cb6345a838634488be3a2, type: 3}
       propertyPath: m_RootOrder
@@ -871,6 +879,10 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
       value: Dylan Level 4
       objectReference: {fileID: 0}
+    - target: {fileID: 5187025065249668766, guid: a40b42e40f1129d468a982b1a9f1487e, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: Dylan Level 4
+      objectReference: {fileID: 0}
     - target: {fileID: 5187025065338629674, guid: a40b42e40f1129d468a982b1a9f1487e, type: 3}
       propertyPath: m_LocalPosition.y
       value: -0.74
@@ -886,6 +898,14 @@ PrefabInstance:
     - target: {fileID: 5187025065652722342, guid: a40b42e40f1129d468a982b1a9f1487e, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
       value: Dylan Level 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5187025065806938630, guid: a40b42e40f1129d468a982b1a9f1487e, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5187025065852619285, guid: a40b42e40f1129d468a982b1a9f1487e, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5187025065896874736, guid: a40b42e40f1129d468a982b1a9f1487e, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
@@ -1744,7 +1764,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bacgrond items
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8511196951168084431, guid: c8367f9a9b9d46f48b182340d0d5f9d0, type: 3}
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: 8574373265006959898, guid: c8367f9a9b9d46f48b182340d0d5f9d0, type: 3}
       insertIndex: -1
@@ -2770,6 +2791,10 @@ PrefabInstance:
     - target: {fileID: 1703676809739110, guid: 097c5a4d264cb6345a838634488be3a2, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Bridge_01 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1703676809739110, guid: 097c5a4d264cb6345a838634488be3a2, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 4329293484498010, guid: 097c5a4d264cb6345a838634488be3a2, type: 3}
       propertyPath: m_RootOrder
@@ -4478,6 +4503,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Bridge_01 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1703676809739110, guid: 097c5a4d264cb6345a838634488be3a2, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 4329293484498010, guid: 097c5a4d264cb6345a838634488be3a2, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -5939,6 +5968,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Bridge_01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1703676809739110, guid: 097c5a4d264cb6345a838634488be3a2, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 4329293484498010, guid: 097c5a4d264cb6345a838634488be3a2, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -6166,6 +6199,10 @@ PrefabInstance:
     - target: {fileID: 1703676809739110, guid: 097c5a4d264cb6345a838634488be3a2, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Bridge_01 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1703676809739110, guid: 097c5a4d264cb6345a838634488be3a2, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 4329293484498010, guid: 097c5a4d264cb6345a838634488be3a2, type: 3}
       propertyPath: m_RootOrder
@@ -7474,6 +7511,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Bridge_01 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1703676809739110, guid: 097c5a4d264cb6345a838634488be3a2, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     - target: {fileID: 4329293484498010, guid: 097c5a4d264cb6345a838634488be3a2, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -8016,8 +8057,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1869027677}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.5, y: -8.05, z: 0}
-  m_LocalScale: {x: 65.56514, y: 10.560185, z: 9.1893}
+  m_LocalPosition: {x: 2.5, y: -8.05, z: 15.9}
+  m_LocalScale: {x: 65.56514, y: 10.560185, z: 40.936493}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1476523914}
