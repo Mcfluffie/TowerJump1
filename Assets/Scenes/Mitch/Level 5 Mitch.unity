@@ -8,8 +8,8 @@ OcclusionCullingSettings:
     smallestOccluder: 5
     smallestHole: 0.25
     backfaceThreshold: 100
-  m_SceneGUID: 00000000000000000000000000000000
-  m_OcclusionCullingData: {fileID: 0}
+  m_SceneGUID: 187b4a2417c543442b5c60270fd3528b
+  m_OcclusionCullingData: {fileID: 36300000, guid: 9fd0ecf36df26e9468fa7c7df68d886d, type: 2}
 --- !u!104 &2
 RenderSettings:
   m_ObjectHideFlags: 0
@@ -135,6 +135,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Tower_01 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1104353676860612, guid: cf4dc9248bb79264c8a7ef8f06eabfba, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4673210154521782, guid: cf4dc9248bb79264c8a7ef8f06eabfba, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -231,6 +235,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Floor_Grate_01
       objectReference: {fileID: 0}
+    - target: {fileID: 1864217236761754, guid: 46aa216c617192d44a370ea724baa577, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4953829247536312, guid: 46aa216c617192d44a370ea724baa577, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -306,6 +314,10 @@ PrefabInstance:
     - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Straight_01 (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4073242613029556, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_RootOrder
@@ -383,6 +395,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (61)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -458,6 +474,10 @@ PrefabInstance:
     - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Straight_01 (32)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4073242613029556, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_RootOrder
@@ -644,6 +664,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Straight_01 (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4073242613029556, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -822,6 +846,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -907,6 +935,10 @@ PrefabInstance:
     - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (57)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
@@ -1004,6 +1036,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (62)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -1080,6 +1116,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Straight_01 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4073242613029556, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -1155,6 +1195,10 @@ PrefabInstance:
     - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Straight_01 (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4073242613029556, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_RootOrder
@@ -1237,6 +1281,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Straight_01 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4073242613029556, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -1313,6 +1361,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (44)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -1388,6 +1440,10 @@ PrefabInstance:
     - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (63)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
@@ -1474,6 +1530,10 @@ PrefabInstance:
     - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (94)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
@@ -1700,6 +1760,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (90)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -1869,6 +1933,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (35)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -1945,6 +2013,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (75)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -2020,6 +2092,10 @@ PrefabInstance:
     - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Straight_01 (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4073242613029556, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_RootOrder
@@ -2106,6 +2182,10 @@ PrefabInstance:
     - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (81)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
@@ -2250,6 +2330,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (67)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -2325,6 +2409,10 @@ PrefabInstance:
     - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Straight_01 (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4073242613029556, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_RootOrder
@@ -2411,6 +2499,10 @@ PrefabInstance:
     - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (96)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
@@ -2555,6 +2647,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Straight_01 (27)
       objectReference: {fileID: 0}
+    - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4073242613029556, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -2635,6 +2731,10 @@ PrefabInstance:
     - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (87)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
@@ -2732,6 +2832,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -2818,6 +2922,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Straight_01 (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4073242613029556, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -2899,6 +3007,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Straight_01 (37)
       objectReference: {fileID: 0}
+    - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4073242613029556, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -2979,6 +3091,10 @@ PrefabInstance:
     - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (43)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
@@ -3123,6 +3239,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (65)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -3198,6 +3318,10 @@ PrefabInstance:
     - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (91)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
@@ -3275,6 +3399,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -3351,6 +3479,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (39)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -3426,6 +3558,10 @@ PrefabInstance:
     - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (54)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
@@ -3571,6 +3707,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Straight_01 (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4073242613029556, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -3646,6 +3786,10 @@ PrefabInstance:
     - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (84)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
@@ -3728,6 +3872,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -3808,6 +3956,10 @@ PrefabInstance:
     - target: {fileID: 1104353676860612, guid: cf4dc9248bb79264c8a7ef8f06eabfba, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Tower_01 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1104353676860612, guid: cf4dc9248bb79264c8a7ef8f06eabfba, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4673210154521782, guid: cf4dc9248bb79264c8a7ef8f06eabfba, type: 3}
       propertyPath: m_RootOrder
@@ -3894,6 +4046,10 @@ PrefabInstance:
     - target: {fileID: 1104353676860612, guid: cf4dc9248bb79264c8a7ef8f06eabfba, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Tower_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1104353676860612, guid: cf4dc9248bb79264c8a7ef8f06eabfba, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4673210154521782, guid: cf4dc9248bb79264c8a7ef8f06eabfba, type: 3}
       propertyPath: m_RootOrder
@@ -4019,6 +4175,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (70)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -4105,6 +4265,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (88)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -4180,6 +4344,10 @@ PrefabInstance:
     - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Straight_01 (42)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4073242613029556, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_RootOrder
@@ -4261,6 +4429,10 @@ PrefabInstance:
     - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (73)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
@@ -4441,6 +4613,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Corner_01 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 1780820495151790, guid: 588a2387edc935946a6fd5cda83143af, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4931226361141696, guid: 588a2387edc935946a6fd5cda83143af, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -4526,6 +4702,10 @@ PrefabInstance:
     - target: {fileID: 1780820495151790, guid: 588a2387edc935946a6fd5cda83143af, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Corner_01 (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1780820495151790, guid: 588a2387edc935946a6fd5cda83143af, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4931226361141696, guid: 588a2387edc935946a6fd5cda83143af, type: 3}
       propertyPath: m_RootOrder
@@ -4617,6 +4797,10 @@ PrefabInstance:
     - target: {fileID: 1104353676860612, guid: cf4dc9248bb79264c8a7ef8f06eabfba, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Tower_01 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1104353676860612, guid: cf4dc9248bb79264c8a7ef8f06eabfba, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4673210154521782, guid: cf4dc9248bb79264c8a7ef8f06eabfba, type: 3}
       propertyPath: m_RootOrder
@@ -4717,6 +4901,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -4792,6 +4980,10 @@ PrefabInstance:
     - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Straight_01 (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4073242613029556, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_RootOrder
@@ -4879,6 +5071,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (32)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -4960,6 +5156,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -5035,6 +5235,22 @@ PrefabInstance:
     - target: {fileID: 1228844386416836, guid: e38defb93c3160441af64e1c19cd5efd, type: 3}
       propertyPath: m_Name
       value: SM_Env_Dwarf_Forge_Smelter_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1228844386416836, guid: e38defb93c3160441af64e1c19cd5efd, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1465543574171838, guid: e38defb93c3160441af64e1c19cd5efd, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1606347052161642, guid: e38defb93c3160441af64e1c19cd5efd, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1902766946251680, guid: e38defb93c3160441af64e1c19cd5efd, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4923412771087636, guid: e38defb93c3160441af64e1c19cd5efd, type: 3}
       propertyPath: m_RootOrder
@@ -5112,6 +5328,10 @@ PrefabInstance:
     - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Straight_01 (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4073242613029556, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_RootOrder
@@ -5194,6 +5414,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (78)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -5269,6 +5493,10 @@ PrefabInstance:
     - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Straight_01 (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4073242613029556, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_RootOrder
@@ -5351,6 +5579,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (106)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -5427,6 +5659,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -5502,6 +5738,10 @@ PrefabInstance:
     - target: {fileID: 1780820495151790, guid: 588a2387edc935946a6fd5cda83143af, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Corner_01 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1780820495151790, guid: 588a2387edc935946a6fd5cda83143af, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4931226361141696, guid: 588a2387edc935946a6fd5cda83143af, type: 3}
       propertyPath: m_RootOrder
@@ -5583,6 +5823,10 @@ PrefabInstance:
     - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Straight_01 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4073242613029556, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_RootOrder
@@ -5774,7 +6018,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &665784165
 PrefabInstance:
@@ -5787,6 +6031,10 @@ PrefabInstance:
     - target: {fileID: 1104353676860612, guid: cf4dc9248bb79264c8a7ef8f06eabfba, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Tower_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1104353676860612, guid: cf4dc9248bb79264c8a7ef8f06eabfba, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4673210154521782, guid: cf4dc9248bb79264c8a7ef8f06eabfba, type: 3}
       propertyPath: m_RootOrder
@@ -5873,6 +6121,10 @@ PrefabInstance:
     - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
@@ -6122,6 +6374,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (27)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -6202,6 +6458,10 @@ PrefabInstance:
     - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Straight_01 (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4073242613029556, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_RootOrder
@@ -6289,6 +6549,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -6364,6 +6628,10 @@ PrefabInstance:
     - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Straight_01 (39)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4073242613029556, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_RootOrder
@@ -6446,6 +6714,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -6522,6 +6794,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Corner_01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1780820495151790, guid: 588a2387edc935946a6fd5cda83143af, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4931226361141696, guid: 588a2387edc935946a6fd5cda83143af, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -6597,6 +6873,10 @@ PrefabInstance:
     - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (97)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
@@ -6678,6 +6958,10 @@ PrefabInstance:
     - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (79)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
@@ -6828,6 +7112,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Tower_01 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1104353676860612, guid: cf4dc9248bb79264c8a7ef8f06eabfba, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4673210154521782, guid: cf4dc9248bb79264c8a7ef8f06eabfba, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -6914,6 +7202,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Straight_01 (30)
       objectReference: {fileID: 0}
+    - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4073242613029556, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -6995,6 +7287,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Prop_Tech_Container_03
       objectReference: {fileID: 0}
+    - target: {fileID: 1117571992209916, guid: 4b7001a52dff50b44819007f1e9ee7ba, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4310561187507360, guid: 4b7001a52dff50b44819007f1e9ee7ba, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -7070,6 +7366,10 @@ PrefabInstance:
     - target: {fileID: 1416200664340414, guid: c05f171c5bc68d143874146a74cd67b3, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Tech_Container_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1416200664340414, guid: c05f171c5bc68d143874146a74cd67b3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4019136141882180, guid: c05f171c5bc68d143874146a74cd67b3, type: 3}
       propertyPath: m_RootOrder
@@ -7147,6 +7447,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (42)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -7222,6 +7526,10 @@ PrefabInstance:
     - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
@@ -7303,6 +7611,10 @@ PrefabInstance:
     - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (68)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
@@ -7390,6 +7702,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Corner_01 (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 1780820495151790, guid: 588a2387edc935946a6fd5cda83143af, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4931226361141696, guid: 588a2387edc935946a6fd5cda83143af, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -7470,6 +7786,10 @@ PrefabInstance:
     - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
@@ -7732,7 +8052,6 @@ Transform:
   - {fileID: 1442553529}
   - {fileID: 1241274415}
   - {fileID: 483506882}
-  - {fileID: 1133593211}
   m_Father: {fileID: 1556254793}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -7747,6 +8066,10 @@ PrefabInstance:
     - target: {fileID: 1780820495151790, guid: 588a2387edc935946a6fd5cda83143af, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Corner_01 (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1780820495151790, guid: 588a2387edc935946a6fd5cda83143af, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4931226361141696, guid: 588a2387edc935946a6fd5cda83143af, type: 3}
       propertyPath: m_RootOrder
@@ -7834,6 +8157,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Prop_Tech_Container_02
       objectReference: {fileID: 0}
+    - target: {fileID: 1318390667786368, guid: f1d15858a5c546e44b49526b21d12b6a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4351633800824378, guid: f1d15858a5c546e44b49526b21d12b6a, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -7909,6 +8236,10 @@ PrefabInstance:
     - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (99)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
@@ -7990,6 +8321,10 @@ PrefabInstance:
     - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Straight_01 (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4073242613029556, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_RootOrder
@@ -8164,6 +8499,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -8244,6 +8583,10 @@ PrefabInstance:
     - target: {fileID: 1104353676860612, guid: cf4dc9248bb79264c8a7ef8f06eabfba, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Tower_01 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1104353676860612, guid: cf4dc9248bb79264c8a7ef8f06eabfba, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4673210154521782, guid: cf4dc9248bb79264c8a7ef8f06eabfba, type: 3}
       propertyPath: m_RootOrder
@@ -8349,6 +8692,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -8444,6 +8791,10 @@ PrefabInstance:
     - target: {fileID: 1104353676860612, guid: cf4dc9248bb79264c8a7ef8f06eabfba, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Tower_01 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1104353676860612, guid: cf4dc9248bb79264c8a7ef8f06eabfba, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4673210154521782, guid: cf4dc9248bb79264c8a7ef8f06eabfba, type: 3}
       propertyPath: m_RootOrder
@@ -8544,6 +8895,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Straight_01 (35)
       objectReference: {fileID: 0}
+    - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4073242613029556, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -8635,6 +8990,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Corner_01 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1780820495151790, guid: 588a2387edc935946a6fd5cda83143af, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4931226361141696, guid: 588a2387edc935946a6fd5cda83143af, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -8710,6 +9069,10 @@ PrefabInstance:
     - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Straight_01 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4073242613029556, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_RootOrder
@@ -8801,6 +9164,10 @@ PrefabInstance:
     - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Straight_01 (38)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4073242613029556, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_RootOrder
@@ -9159,6 +9526,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Prop_Tech_Container_03 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1117571992209916, guid: 4b7001a52dff50b44819007f1e9ee7ba, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4310561187507360, guid: 4b7001a52dff50b44819007f1e9ee7ba, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -9235,6 +9606,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (64)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -9299,73 +9674,6 @@ PrefabInstance:
     - {fileID: 64014910732015696, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
---- !u!1001 &1056552885
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 2
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 1915596032839388, guid: 75a94bfbbdc2a294aa461d7df91ef417, type: 3}
-      propertyPath: m_Name
-      value: FX_Fire_Wild_01
-      objectReference: {fileID: 0}
-    - target: {fileID: 4754769036795130, guid: 75a94bfbbdc2a294aa461d7df91ef417, type: 3}
-      propertyPath: m_RootOrder
-      value: 4
-      objectReference: {fileID: 0}
-    - target: {fileID: 4754769036795130, guid: 75a94bfbbdc2a294aa461d7df91ef417, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 3.12
-      objectReference: {fileID: 0}
-    - target: {fileID: 4754769036795130, guid: 75a94bfbbdc2a294aa461d7df91ef417, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 18.68
-      objectReference: {fileID: 0}
-    - target: {fileID: 4754769036795130, guid: 75a94bfbbdc2a294aa461d7df91ef417, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 26.98
-      objectReference: {fileID: 0}
-    - target: {fileID: 4754769036795130, guid: 75a94bfbbdc2a294aa461d7df91ef417, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4754769036795130, guid: 75a94bfbbdc2a294aa461d7df91ef417, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4754769036795130, guid: 75a94bfbbdc2a294aa461d7df91ef417, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4754769036795130, guid: 75a94bfbbdc2a294aa461d7df91ef417, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4754769036795130, guid: 75a94bfbbdc2a294aa461d7df91ef417, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4754769036795130, guid: 75a94bfbbdc2a294aa461d7df91ef417, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4754769036795130, guid: 75a94bfbbdc2a294aa461d7df91ef417, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 199317043633025428, guid: 75a94bfbbdc2a294aa461d7df91ef417, type: 3}
-      propertyPath: m_Materials.Array.size
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 199909994404010896, guid: 75a94bfbbdc2a294aa461d7df91ef417, type: 3}
-      propertyPath: m_Materials.Array.size
-      value: 1
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_AddedGameObjects: []
-  m_SourcePrefab: {fileID: 100100000, guid: 75a94bfbbdc2a294aa461d7df91ef417, type: 3}
 --- !u!1001 &1063292451
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9377,6 +9685,10 @@ PrefabInstance:
     - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (56)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
@@ -9453,6 +9765,10 @@ PrefabInstance:
     - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (48)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
@@ -9545,6 +9861,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Straight_01 (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4073242613029556, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -9626,6 +9946,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (46)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -9702,6 +10026,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Corner_01 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1780820495151790, guid: 588a2387edc935946a6fd5cda83143af, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4931226361141696, guid: 588a2387edc935946a6fd5cda83143af, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -9777,6 +10105,10 @@ PrefabInstance:
     - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
@@ -10006,11 +10338,6 @@ PrefabInstance:
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 7924d9a9a33b5644db4cec23fdb21069, type: 3}
---- !u!4 &1133593211 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4881476909219624, guid: 02a68e019bcbb7844996050723602b6e, type: 3}
-  m_PrefabInstance: {fileID: 1242626025}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1144565858 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4073242613029556, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
@@ -10037,6 +10364,10 @@ PrefabInstance:
     - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Straight_01 (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4073242613029556, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_RootOrder
@@ -10186,6 +10517,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (34)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -10272,6 +10607,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -10352,6 +10691,10 @@ PrefabInstance:
     - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (82)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
@@ -10464,6 +10807,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Straight_01 (41)
       objectReference: {fileID: 0}
+    - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4073242613029556, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -10533,81 +10880,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4073242613029556, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
   m_PrefabInstance: {fileID: 1241274414}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &1242626025
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 2
-    m_TransformParent: {fileID: 867501252}
-    m_Modifications:
-    - target: {fileID: 1053387193402042, guid: 02a68e019bcbb7844996050723602b6e, type: 3}
-      propertyPath: m_Name
-      value: FX_Lava_Steam_01
-      objectReference: {fileID: 0}
-    - target: {fileID: 4881476909219624, guid: 02a68e019bcbb7844996050723602b6e, type: 3}
-      propertyPath: m_RootOrder
-      value: -1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4881476909219624, guid: 02a68e019bcbb7844996050723602b6e, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.8744896
-      objectReference: {fileID: 0}
-    - target: {fileID: 4881476909219624, guid: 02a68e019bcbb7844996050723602b6e, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.8744896
-      objectReference: {fileID: 0}
-    - target: {fileID: 4881476909219624, guid: 02a68e019bcbb7844996050723602b6e, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.8744896
-      objectReference: {fileID: 0}
-    - target: {fileID: 4881476909219624, guid: 02a68e019bcbb7844996050723602b6e, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 2.907086
-      objectReference: {fileID: 0}
-    - target: {fileID: 4881476909219624, guid: 02a68e019bcbb7844996050723602b6e, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.33
-      objectReference: {fileID: 0}
-    - target: {fileID: 4881476909219624, guid: 02a68e019bcbb7844996050723602b6e, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 22.7
-      objectReference: {fileID: 0}
-    - target: {fileID: 4881476909219624, guid: 02a68e019bcbb7844996050723602b6e, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4881476909219624, guid: 02a68e019bcbb7844996050723602b6e, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4881476909219624, guid: 02a68e019bcbb7844996050723602b6e, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4881476909219624, guid: 02a68e019bcbb7844996050723602b6e, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4881476909219624, guid: 02a68e019bcbb7844996050723602b6e, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4881476909219624, guid: 02a68e019bcbb7844996050723602b6e, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4881476909219624, guid: 02a68e019bcbb7844996050723602b6e, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 199762389911317334, guid: 02a68e019bcbb7844996050723602b6e, type: 3}
-      propertyPath: m_Materials.Array.size
-      value: 1
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_AddedGameObjects: []
-  m_SourcePrefab: {fileID: 100100000, guid: 02a68e019bcbb7844996050723602b6e, type: 3}
 --- !u!1001 &1246489024
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10619,6 +10891,10 @@ PrefabInstance:
     - target: {fileID: 1117571992209916, guid: 4b7001a52dff50b44819007f1e9ee7ba, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Tech_Container_03 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117571992209916, guid: 4b7001a52dff50b44819007f1e9ee7ba, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4310561187507360, guid: 4b7001a52dff50b44819007f1e9ee7ba, type: 3}
       propertyPath: m_RootOrder
@@ -10700,6 +10976,10 @@ PrefabInstance:
     - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
@@ -10786,6 +11066,10 @@ PrefabInstance:
     - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Straight_01 (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4073242613029556, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_RootOrder
@@ -11095,6 +11379,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Straight_01 (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4073242613029556, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -11170,6 +11458,10 @@ PrefabInstance:
     - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Straight_01 (36)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4073242613029556, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_RootOrder
@@ -11262,6 +11554,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -11337,6 +11633,10 @@ PrefabInstance:
     - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
@@ -11414,6 +11714,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -11490,6 +11794,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (85)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -11565,6 +11873,10 @@ PrefabInstance:
     - target: {fileID: 1104353676860612, guid: cf4dc9248bb79264c8a7ef8f06eabfba, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Tower_01 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1104353676860612, guid: cf4dc9248bb79264c8a7ef8f06eabfba, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4673210154521782, guid: cf4dc9248bb79264c8a7ef8f06eabfba, type: 3}
       propertyPath: m_RootOrder
@@ -11660,6 +11972,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (100)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -11735,6 +12051,10 @@ PrefabInstance:
     - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
@@ -11883,6 +12203,10 @@ PrefabInstance:
     - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (50)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
@@ -12037,6 +12361,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Prop_Tech_Container_03 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1117571992209916, guid: 4b7001a52dff50b44819007f1e9ee7ba, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4310561187507360, guid: 4b7001a52dff50b44819007f1e9ee7ba, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -12142,6 +12470,10 @@ PrefabInstance:
     - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Straight_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4073242613029556, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_RootOrder
@@ -12363,6 +12695,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (52)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -12438,6 +12774,10 @@ PrefabInstance:
     - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (36)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
@@ -12515,6 +12855,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (93)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -12590,6 +12934,10 @@ PrefabInstance:
     - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Straight_01 (40)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4073242613029556, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_RootOrder
@@ -12812,6 +13160,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (66)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -12955,6 +13307,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -13040,6 +13396,10 @@ PrefabInstance:
     - target: {fileID: 1104353676860612, guid: cf4dc9248bb79264c8a7ef8f06eabfba, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Tower_01 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1104353676860612, guid: cf4dc9248bb79264c8a7ef8f06eabfba, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4673210154521782, guid: cf4dc9248bb79264c8a7ef8f06eabfba, type: 3}
       propertyPath: m_RootOrder
@@ -13202,6 +13562,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Prop_Tech_Container_03 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1117571992209916, guid: 4b7001a52dff50b44819007f1e9ee7ba, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4310561187507360, guid: 4b7001a52dff50b44819007f1e9ee7ba, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -13282,6 +13646,10 @@ PrefabInstance:
     - target: {fileID: 1104353676860612, guid: cf4dc9248bb79264c8a7ef8f06eabfba, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Tower_01 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1104353676860612, guid: cf4dc9248bb79264c8a7ef8f06eabfba, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4673210154521782, guid: cf4dc9248bb79264c8a7ef8f06eabfba, type: 3}
       propertyPath: m_RootOrder
@@ -13369,6 +13737,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (37)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -13444,6 +13816,10 @@ PrefabInstance:
     - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (60)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
@@ -13565,6 +13941,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -13650,6 +14030,10 @@ PrefabInstance:
     - target: {fileID: 1104353676860612, guid: cf4dc9248bb79264c8a7ef8f06eabfba, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Tower_01 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1104353676860612, guid: cf4dc9248bb79264c8a7ef8f06eabfba, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4673210154521782, guid: cf4dc9248bb79264c8a7ef8f06eabfba, type: 3}
       propertyPath: m_RootOrder
@@ -13896,6 +14280,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -14002,7 +14390,7 @@ Transform:
   - {fileID: 1936099261}
   - {fileID: 867501252}
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1560443726
 PrefabInstance:
@@ -14015,6 +14403,10 @@ PrefabInstance:
     - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (51)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
@@ -14091,6 +14483,10 @@ PrefabInstance:
     - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (102)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
@@ -14173,6 +14569,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (38)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -14248,6 +14648,10 @@ PrefabInstance:
     - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (33)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
@@ -14365,6 +14769,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Corner_01 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 1780820495151790, guid: 588a2387edc935946a6fd5cda83143af, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4931226361141696, guid: 588a2387edc935946a6fd5cda83143af, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -14446,6 +14854,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Straight_01 (29)
       objectReference: {fileID: 0}
+    - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4073242613029556, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -14526,6 +14938,10 @@ PrefabInstance:
     - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Straight_01 (33)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4073242613029556, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_RootOrder
@@ -14613,6 +15029,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (71)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -14694,6 +15114,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (40)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -14769,6 +15193,10 @@ PrefabInstance:
     - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (41)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
@@ -14913,6 +15341,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Straight_01 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4073242613029556, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -14988,6 +15420,10 @@ PrefabInstance:
     - target: {fileID: 1740567560204108, guid: e103b1c966fcf13479527d947d425a35, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Tower_Round_Short_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740567560204108, guid: e103b1c966fcf13479527d947d425a35, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4429492830990146, guid: e103b1c966fcf13479527d947d425a35, type: 3}
       propertyPath: m_RootOrder
@@ -15070,6 +15506,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Straight_01 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4073242613029556, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -15150,6 +15590,10 @@ PrefabInstance:
     - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (69)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
@@ -15236,6 +15680,10 @@ PrefabInstance:
     - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (72)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
@@ -15353,6 +15801,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Straight_01
       objectReference: {fileID: 0}
+    - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4073242613029556, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -15434,6 +15886,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Corner_01 (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 1780820495151790, guid: 588a2387edc935946a6fd5cda83143af, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4931226361141696, guid: 588a2387edc935946a6fd5cda83143af, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -15514,6 +15970,10 @@ PrefabInstance:
     - target: {fileID: 1104353676860612, guid: cf4dc9248bb79264c8a7ef8f06eabfba, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Tower_01 (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1104353676860612, guid: cf4dc9248bb79264c8a7ef8f06eabfba, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4673210154521782, guid: cf4dc9248bb79264c8a7ef8f06eabfba, type: 3}
       propertyPath: m_RootOrder
@@ -15604,6 +16064,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (45)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -15679,6 +16143,10 @@ PrefabInstance:
     - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
@@ -15756,6 +16224,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (53)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -15832,6 +16304,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (59)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -15907,6 +16383,10 @@ PrefabInstance:
     - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Straight_01 (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4073242613029556, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_RootOrder
@@ -16061,6 +16541,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Tower_01 (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 1104353676860612, guid: cf4dc9248bb79264c8a7ef8f06eabfba, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4673210154521782, guid: cf4dc9248bb79264c8a7ef8f06eabfba, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -16144,6 +16628,10 @@ PrefabInstance:
     - target: {fileID: 1104353676860612, guid: cf4dc9248bb79264c8a7ef8f06eabfba, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Tower_01 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1104353676860612, guid: cf4dc9248bb79264c8a7ef8f06eabfba, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4673210154521782, guid: cf4dc9248bb79264c8a7ef8f06eabfba, type: 3}
       propertyPath: m_RootOrder
@@ -16316,6 +16804,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (47)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -16397,6 +16889,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Corner_01
       objectReference: {fileID: 0}
+    - target: {fileID: 1780820495151790, guid: 588a2387edc935946a6fd5cda83143af, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4931226361141696, guid: 588a2387edc935946a6fd5cda83143af, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -16472,6 +16968,10 @@ PrefabInstance:
     - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (105)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
@@ -16584,6 +17084,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Straight_01 (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4073242613029556, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -16664,6 +17168,10 @@ PrefabInstance:
     - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Straight_01 (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4073242613029556, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_RootOrder
@@ -16813,6 +17321,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -16888,6 +17400,10 @@ PrefabInstance:
     - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (49)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
@@ -16970,6 +17486,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -17050,6 +17570,10 @@ PrefabInstance:
     - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Straight_01 (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4073242613029556, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_RootOrder
@@ -17146,6 +17670,10 @@ PrefabInstance:
     - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
@@ -17274,6 +17802,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Corner_01 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1780820495151790, guid: 588a2387edc935946a6fd5cda83143af, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4931226361141696, guid: 588a2387edc935946a6fd5cda83143af, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -17349,6 +17881,10 @@ PrefabInstance:
     - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
@@ -17537,6 +18073,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Straight_01 (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4073242613029556, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -17618,6 +18158,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Prop_Tech_Pipe_Straight_01 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1003445210379902, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4073242613029556, guid: f1409a49ef1880f458d27d1cc503f3ac, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -17694,6 +18238,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (55)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -17769,6 +18317,10 @@ PrefabInstance:
     - target: {fileID: 1104353676860612, guid: cf4dc9248bb79264c8a7ef8f06eabfba, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Tower_01 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1104353676860612, guid: cf4dc9248bb79264c8a7ef8f06eabfba, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4673210154521782, guid: cf4dc9248bb79264c8a7ef8f06eabfba, type: 3}
       propertyPath: m_RootOrder
@@ -17899,6 +18451,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (58)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -17974,6 +18530,10 @@ PrefabInstance:
     - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
@@ -18051,6 +18611,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (76)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -18127,6 +18691,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (31)
       objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -18202,6 +18770,10 @@ PrefabInstance:
     - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Ruin_Wall_01 (103)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1796780319832058, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4796592812863908, guid: 907c5b82ea9e5224ab3eee6c8057fc2e, type: 3}
       propertyPath: m_RootOrder

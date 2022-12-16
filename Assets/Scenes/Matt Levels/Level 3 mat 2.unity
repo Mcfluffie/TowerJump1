@@ -8,8 +8,8 @@ OcclusionCullingSettings:
     smallestOccluder: 5
     smallestHole: 0.25
     backfaceThreshold: 100
-  m_SceneGUID: 00000000000000000000000000000000
-  m_OcclusionCullingData: {fileID: 0}
+  m_SceneGUID: cb4d340b1465f3f4084a18e174b680be
+  m_OcclusionCullingData: {fileID: 36300000, guid: 0c0b857749e52014d90269511aa6132d, type: 2}
 --- !u!104 &2
 RenderSettings:
   m_ObjectHideFlags: 0
@@ -134,6 +134,10 @@ PrefabInstance:
     - target: {fileID: 1816856045696520, guid: acf2a50615024db48a3459b5af0f3ff7, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Rug_Stairs_03 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1816856045696520, guid: acf2a50615024db48a3459b5af0f3ff7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4104447788474878, guid: acf2a50615024db48a3459b5af0f3ff7, type: 3}
       propertyPath: m_RootOrder
@@ -418,7 +422,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 64594014414750374, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
 --- !u!4 &24283564 stripped
@@ -442,6 +447,14 @@ PrefabInstance:
     - target: {fileID: 1660399362315054, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Dwarf_Building_02 (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1660399362315054, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1994536978142960, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4244529776383388, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
       propertyPath: m_RootOrder
@@ -539,6 +552,14 @@ PrefabInstance:
     - target: {fileID: 1660399362315054, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Dwarf_Building_02 (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1660399362315054, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1994536978142960, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4244529776383388, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
       propertyPath: m_RootOrder
@@ -743,7 +764,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 64594014414750374, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
 --- !u!4 &96200926 stripped
@@ -762,6 +784,10 @@ PrefabInstance:
     - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_Name
       value: SM_Env_Dwarf_Wall_Half_06 (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4906030092485336, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_RootOrder
@@ -839,6 +865,10 @@ PrefabInstance:
     - target: {fileID: 1517476083054710, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
       propertyPath: m_Name
       value: SM_Env_Dwarf_Floor_27 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1517476083054710, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4078085952455648, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
       propertyPath: m_RootOrder
@@ -988,6 +1018,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Dwarf_Floor_27 (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 1517476083054710, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4078085952455648, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -1060,6 +1094,10 @@ PrefabInstance:
     - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_Name
       value: SM_Env_Dwarf_Wall_Half_06 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4906030092485336, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_RootOrder
@@ -1199,7 +1237,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 64594014414750374, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
 --- !u!4 &183138137 stripped
@@ -1285,7 +1324,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 64594014414750374, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
 --- !u!1001 &197940876
@@ -1299,6 +1339,10 @@ PrefabInstance:
     - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_Name
       value: SM_Env_Dwarf_Wall_Half_06 (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4906030092485336, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_RootOrder
@@ -1371,6 +1415,10 @@ PrefabInstance:
     - target: {fileID: 1816856045696520, guid: acf2a50615024db48a3459b5af0f3ff7, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Rug_Stairs_03 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1816856045696520, guid: acf2a50615024db48a3459b5af0f3ff7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4104447788474878, guid: acf2a50615024db48a3459b5af0f3ff7, type: 3}
       propertyPath: m_RootOrder
@@ -1448,6 +1496,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Prop_Camp_Pot_05 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1110221913662468, guid: 30cbedbf4109bab4fa1544dfc6084361, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4461836794343694, guid: 30cbedbf4109bab4fa1544dfc6084361, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -1524,6 +1576,10 @@ PrefabInstance:
     - target: {fileID: 1816856045696520, guid: acf2a50615024db48a3459b5af0f3ff7, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Rug_Stairs_03 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1816856045696520, guid: acf2a50615024db48a3459b5af0f3ff7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4104447788474878, guid: acf2a50615024db48a3459b5af0f3ff7, type: 3}
       propertyPath: m_RootOrder
@@ -1677,6 +1733,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Prop_Rug_Stairs_03 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 1816856045696520, guid: acf2a50615024db48a3459b5af0f3ff7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4104447788474878, guid: acf2a50615024db48a3459b5af0f3ff7, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -1753,6 +1813,14 @@ PrefabInstance:
     - target: {fileID: 1660399362315054, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Dwarf_Building_02 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1660399362315054, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1994536978142960, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4244529776383388, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
       propertyPath: m_RootOrder
@@ -1837,6 +1905,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Dwarf_Building_02 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1660399362315054, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1994536978142960, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4244529776383388, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -1910,6 +1986,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Dwarf_Floor_27 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 1517476083054710, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4078085952455648, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -1982,6 +2062,10 @@ PrefabInstance:
     - target: {fileID: 1110221913662468, guid: 30cbedbf4109bab4fa1544dfc6084361, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Camp_Pot_05 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1110221913662468, guid: 30cbedbf4109bab4fa1544dfc6084361, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4461836794343694, guid: 30cbedbf4109bab4fa1544dfc6084361, type: 3}
       propertyPath: m_RootOrder
@@ -2060,6 +2144,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Dwarf_Building_02 (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 1660399362315054, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1994536978142960, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4244529776383388, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -2137,6 +2229,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Dwarf_Wall_Half_06 (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4906030092485336, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -2208,6 +2304,10 @@ PrefabInstance:
     - target: {fileID: 1110221913662468, guid: 30cbedbf4109bab4fa1544dfc6084361, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Camp_Pot_05
+      objectReference: {fileID: 0}
+    - target: {fileID: 1110221913662468, guid: 30cbedbf4109bab4fa1544dfc6084361, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4461836794343694, guid: 30cbedbf4109bab4fa1544dfc6084361, type: 3}
       propertyPath: m_RootOrder
@@ -2301,6 +2401,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Dwarf_Floor_27 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 1517476083054710, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4078085952455648, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -2368,6 +2472,10 @@ PrefabInstance:
     - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_Name
       value: SM_Env_Dwarf_Wall_Half_06 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4906030092485336, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_RootOrder
@@ -2596,6 +2704,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Dwarf_Building_02 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 1660399362315054, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1994536978142960, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4244529776383388, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -2806,7 +2922,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 64594014414750374, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
 --- !u!4 &357963882 stripped
@@ -2825,6 +2942,10 @@ PrefabInstance:
     - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_Name
       value: SM_Env_Dwarf_Wall_Half_06 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4906030092485336, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_RootOrder
@@ -2897,6 +3018,10 @@ PrefabInstance:
     - target: {fileID: 1159632830481548, guid: 1cc3d3e9ca52b434f858a1b7dab81c60, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Barrel_03
+      objectReference: {fileID: 0}
+    - target: {fileID: 1159632830481548, guid: 1cc3d3e9ca52b434f858a1b7dab81c60, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4953575555512770, guid: 1cc3d3e9ca52b434f858a1b7dab81c60, type: 3}
       propertyPath: m_RootOrder
@@ -3070,6 +3195,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Dwarf_Building_02 (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 1660399362315054, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1994536978142960, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4244529776383388, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -3147,6 +3280,10 @@ PrefabInstance:
     - target: {fileID: 1136145718988772, guid: 7d9bea75d23cd694fb2d8dc2ba26a350, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Camp_Pot_03 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1136145718988772, guid: 7d9bea75d23cd694fb2d8dc2ba26a350, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4843675906833666, guid: 7d9bea75d23cd694fb2d8dc2ba26a350, type: 3}
       propertyPath: m_RootOrder
@@ -3281,7 +3418,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 64594014414750374, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
 --- !u!1001 &426211543
@@ -3352,7 +3490,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 64594014414750374, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
 --- !u!1001 &447799298
@@ -3366,6 +3505,10 @@ PrefabInstance:
     - target: {fileID: 1048472298825080, guid: 29fc435e87f624c4aa417f109a26bdf2, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Camp_Pot_01 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1048472298825080, guid: 29fc435e87f624c4aa417f109a26bdf2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4251015593548164, guid: 29fc435e87f624c4aa417f109a26bdf2, type: 3}
       propertyPath: m_RootOrder
@@ -3444,6 +3587,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Dwarf_Building_02 (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 1660399362315054, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1994536978142960, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4244529776383388, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -3515,6 +3666,10 @@ PrefabInstance:
     - target: {fileID: 1110221913662468, guid: 30cbedbf4109bab4fa1544dfc6084361, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Camp_Pot_05 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1110221913662468, guid: 30cbedbf4109bab4fa1544dfc6084361, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4461836794343694, guid: 30cbedbf4109bab4fa1544dfc6084361, type: 3}
       propertyPath: m_RootOrder
@@ -3724,7 +3879,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 64594014414750374, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
 --- !u!1001 &492514144
@@ -3738,6 +3894,10 @@ PrefabInstance:
     - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_Name
       value: SM_Env_Dwarf_Wall_Half_06 (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4906030092485336, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_RootOrder
@@ -3872,7 +4032,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 64594014414750374, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
 --- !u!4 &504284256 stripped
@@ -3896,6 +4057,14 @@ PrefabInstance:
     - target: {fileID: 1660399362315054, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Dwarf_Building_02 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1660399362315054, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1994536978142960, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4244529776383388, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
       propertyPath: m_RootOrder
@@ -4101,7 +4270,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 64594014414750374, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
 --- !u!1001 &569315952
@@ -4115,6 +4285,10 @@ PrefabInstance:
     - target: {fileID: 1755978204369876, guid: 5f7748e9b646b0f4b823bc422eaca4e2, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Camp_Pot_07
+      objectReference: {fileID: 0}
+    - target: {fileID: 1755978204369876, guid: 5f7748e9b646b0f4b823bc422eaca4e2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4786183947344796, guid: 5f7748e9b646b0f4b823bc422eaca4e2, type: 3}
       propertyPath: m_RootOrder
@@ -4193,6 +4367,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Dwarf_Wall_Half_06 (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4906030092485336, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -4265,6 +4443,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Dwarf_Building_02 (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 1660399362315054, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1994536978142960, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4244529776383388, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -4332,6 +4518,10 @@ PrefabInstance:
     - target: {fileID: 1159632830481548, guid: 1cc3d3e9ca52b434f858a1b7dab81c60, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Barrel_03 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1159632830481548, guid: 1cc3d3e9ca52b434f858a1b7dab81c60, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4953575555512770, guid: 1cc3d3e9ca52b434f858a1b7dab81c60, type: 3}
       propertyPath: m_RootOrder
@@ -4410,6 +4600,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Dwarf_Wall_Half_06 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4906030092485336, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -4486,6 +4680,10 @@ PrefabInstance:
     - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_Name
       value: SM_Env_Dwarf_Wall_Half_06 (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4906030092485336, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_RootOrder
@@ -4629,6 +4827,10 @@ PrefabInstance:
     - target: {fileID: 1517476083054710, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
       propertyPath: m_Name
       value: SM_Env_Dwarf_Floor_27 (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1517476083054710, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4078085952455648, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
       propertyPath: m_RootOrder
@@ -4834,7 +5036,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 64594014414750374, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
 --- !u!4 &630810784 stripped
@@ -4910,7 +5113,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 64594014414750374, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
 --- !u!4 &669326179 stripped
@@ -4991,7 +5195,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 64594014414750374, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
 --- !u!1001 &700076015
@@ -5185,6 +5390,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Dwarf_Building_02
       objectReference: {fileID: 0}
+    - target: {fileID: 1660399362315054, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1994536978142960, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4244529776383388, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -5263,6 +5476,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Prop_Rug_Stairs_03 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1816856045696520, guid: acf2a50615024db48a3459b5af0f3ff7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4104447788474878, guid: acf2a50615024db48a3459b5af0f3ff7, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -5339,6 +5556,10 @@ PrefabInstance:
     - target: {fileID: 1136145718988772, guid: 7d9bea75d23cd694fb2d8dc2ba26a350, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Camp_Pot_03 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1136145718988772, guid: 7d9bea75d23cd694fb2d8dc2ba26a350, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4843675906833666, guid: 7d9bea75d23cd694fb2d8dc2ba26a350, type: 3}
       propertyPath: m_RootOrder
@@ -5478,7 +5699,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 64594014414750374, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
 --- !u!4 &771093149 stripped
@@ -5502,6 +5724,10 @@ PrefabInstance:
     - target: {fileID: 1517476083054710, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
       propertyPath: m_Name
       value: SM_Env_Dwarf_Floor_27 (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1517476083054710, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4078085952455648, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
       propertyPath: m_RootOrder
@@ -5575,6 +5801,10 @@ PrefabInstance:
     - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_Name
       value: SM_Env_Dwarf_Wall_Half_06 (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4906030092485336, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_RootOrder
@@ -5653,6 +5883,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Dwarf_Floor_27 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1517476083054710, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4078085952455648, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -5720,6 +5954,10 @@ PrefabInstance:
     - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_Name
       value: SM_Env_Dwarf_Wall_Half_06 (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4906030092485336, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_RootOrder
@@ -5792,6 +6030,10 @@ PrefabInstance:
     - target: {fileID: 1517476083054710, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
       propertyPath: m_Name
       value: SM_Env_Dwarf_Floor_27 (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1517476083054710, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4078085952455648, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
       propertyPath: m_RootOrder
@@ -5871,6 +6113,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Dwarf_Wall_Half_06 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4906030092485336, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -5947,6 +6193,10 @@ PrefabInstance:
     - target: {fileID: 1816856045696520, guid: acf2a50615024db48a3459b5af0f3ff7, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Rug_Stairs_03 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1816856045696520, guid: acf2a50615024db48a3459b5af0f3ff7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4104447788474878, guid: acf2a50615024db48a3459b5af0f3ff7, type: 3}
       propertyPath: m_RootOrder
@@ -6030,6 +6280,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Dwarf_Building_02 (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 1660399362315054, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1994536978142960, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4244529776383388, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -6101,6 +6359,10 @@ PrefabInstance:
     - target: {fileID: 1517476083054710, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
       propertyPath: m_Name
       value: SM_Env_Dwarf_Floor_27 (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1517476083054710, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4078085952455648, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
       propertyPath: m_RootOrder
@@ -6308,6 +6570,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Dwarf_Wall_Half_06 (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4906030092485336, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -6379,6 +6645,14 @@ PrefabInstance:
     - target: {fileID: 1660399362315054, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Dwarf_Building_02 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1660399362315054, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1994536978142960, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4244529776383388, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
       propertyPath: m_RootOrder
@@ -6452,6 +6726,10 @@ PrefabInstance:
     - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_Name
       value: SM_Env_Dwarf_Wall_Half_06 (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4906030092485336, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_RootOrder
@@ -6665,6 +6943,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Dwarf_Wall_Half_06 (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4906030092485336, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -6741,6 +7023,10 @@ PrefabInstance:
     - target: {fileID: 1136145718988772, guid: 7d9bea75d23cd694fb2d8dc2ba26a350, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Camp_Pot_03 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1136145718988772, guid: 7d9bea75d23cd694fb2d8dc2ba26a350, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4843675906833666, guid: 7d9bea75d23cd694fb2d8dc2ba26a350, type: 3}
       propertyPath: m_RootOrder
@@ -6819,6 +7105,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Prop_Barrel_03 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 1159632830481548, guid: 1cc3d3e9ca52b434f858a1b7dab81c60, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4953575555512770, guid: 1cc3d3e9ca52b434f858a1b7dab81c60, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -6896,6 +7186,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Dwarf_Building_02 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 1660399362315054, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1994536978142960, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4244529776383388, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -6969,6 +7267,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Dwarf_Building_02 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1660399362315054, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1994536978142960, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4244529776383388, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -7041,6 +7347,10 @@ PrefabInstance:
     - target: {fileID: 1110221913662468, guid: 30cbedbf4109bab4fa1544dfc6084361, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Camp_Pot_05 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1110221913662468, guid: 30cbedbf4109bab4fa1544dfc6084361, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4461836794343694, guid: 30cbedbf4109bab4fa1544dfc6084361, type: 3}
       propertyPath: m_RootOrder
@@ -7119,6 +7429,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Prop_Barrel_03 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1159632830481548, guid: 1cc3d3e9ca52b434f858a1b7dab81c60, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4953575555512770, guid: 1cc3d3e9ca52b434f858a1b7dab81c60, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -7195,6 +7509,10 @@ PrefabInstance:
     - target: {fileID: 1816856045696520, guid: acf2a50615024db48a3459b5af0f3ff7, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Rug_Stairs_03 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1816856045696520, guid: acf2a50615024db48a3459b5af0f3ff7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4104447788474878, guid: acf2a50615024db48a3459b5af0f3ff7, type: 3}
       propertyPath: m_RootOrder
@@ -7277,6 +7595,10 @@ PrefabInstance:
     - target: {fileID: 1159632830481548, guid: 1cc3d3e9ca52b434f858a1b7dab81c60, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Barrel_03 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1159632830481548, guid: 1cc3d3e9ca52b434f858a1b7dab81c60, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4953575555512770, guid: 1cc3d3e9ca52b434f858a1b7dab81c60, type: 3}
       propertyPath: m_RootOrder
@@ -7501,6 +7823,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Dwarf_Building_02 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 1660399362315054, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1994536978142960, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4244529776383388, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -7574,6 +7904,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Dwarf_Floor_27 (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 1517476083054710, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4078085952455648, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -7646,6 +7980,10 @@ PrefabInstance:
     - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_Name
       value: SM_Env_Dwarf_Wall_Half_06 (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4906030092485336, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_RootOrder
@@ -7724,6 +8062,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Dwarf_Wall_Half_06 (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4906030092485336, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -7795,6 +8137,10 @@ PrefabInstance:
     - target: {fileID: 1935125631965176, guid: e2795395678de8149bca23e90ffef6b6, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Camp_Pot_02 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1935125631965176, guid: e2795395678de8149bca23e90ffef6b6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4686304707862940, guid: e2795395678de8149bca23e90ffef6b6, type: 3}
       propertyPath: m_RootOrder
@@ -7929,7 +8275,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 64594014414750374, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
 --- !u!4 &1093674947 stripped
@@ -8147,7 +8494,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 64594014414750374, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
 --- !u!1001 &1157782815
@@ -8161,6 +8509,14 @@ PrefabInstance:
     - target: {fileID: 1660399362315054, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Dwarf_Building_02 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1660399362315054, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1994536978142960, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4244529776383388, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
       propertyPath: m_RootOrder
@@ -8259,6 +8615,10 @@ PrefabInstance:
     - target: {fileID: 1517476083054710, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
       propertyPath: m_Name
       value: SM_Env_Dwarf_Floor_27
+      objectReference: {fileID: 0}
+    - target: {fileID: 1517476083054710, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4078085952455648, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
       propertyPath: m_RootOrder
@@ -8431,6 +8791,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Dwarf_Wall_Half_06 (25)
       objectReference: {fileID: 0}
+    - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4906030092485336, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -8502,6 +8866,10 @@ PrefabInstance:
     - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_Name
       value: SM_Env_Dwarf_Wall_Half_06 (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4906030092485336, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_RootOrder
@@ -8631,7 +8999,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 64594014414750374, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
 --- !u!1001 &1277616825
@@ -8642,9 +9011,17 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1476523914}
     m_Modifications:
+    - target: {fileID: 1150677965094278, guid: c23a7a7d8fbaebf4e9704796bed19744, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1173937446127680, guid: c23a7a7d8fbaebf4e9704796bed19744, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Steel_Pulley_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1173937446127680, guid: c23a7a7d8fbaebf4e9704796bed19744, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4550896738887778, guid: c23a7a7d8fbaebf4e9704796bed19744, type: 3}
       propertyPath: m_RootOrder
@@ -8715,6 +9092,10 @@ PrefabInstance:
     - target: {fileID: 1517476083054710, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
       propertyPath: m_Name
       value: SM_Env_Dwarf_Floor_27 (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1517476083054710, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4078085952455648, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
       propertyPath: m_RootOrder
@@ -8789,6 +9170,10 @@ PrefabInstance:
     - target: {fileID: 1816856045696520, guid: acf2a50615024db48a3459b5af0f3ff7, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Rug_Stairs_03 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1816856045696520, guid: acf2a50615024db48a3459b5af0f3ff7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4104447788474878, guid: acf2a50615024db48a3459b5af0f3ff7, type: 3}
       propertyPath: m_RootOrder
@@ -8871,6 +9256,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Dwarf_Wall_Half_06 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4906030092485336, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -8942,6 +9331,10 @@ PrefabInstance:
     - target: {fileID: 1517476083054710, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
       propertyPath: m_Name
       value: SM_Env_Dwarf_Floor_27 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1517476083054710, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4078085952455648, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
       propertyPath: m_RootOrder
@@ -9137,6 +9530,10 @@ PrefabInstance:
     - target: {fileID: 1159632830481548, guid: 1cc3d3e9ca52b434f858a1b7dab81c60, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Barrel_03 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1159632830481548, guid: 1cc3d3e9ca52b434f858a1b7dab81c60, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4953575555512770, guid: 1cc3d3e9ca52b434f858a1b7dab81c60, type: 3}
       propertyPath: m_RootOrder
@@ -9342,7 +9739,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 64594014414750374, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
 --- !u!1001 &1342248536
@@ -9427,6 +9825,10 @@ PrefabInstance:
     - target: {fileID: 1517476083054710, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
       propertyPath: m_Name
       value: SM_Env_Dwarf_Floor_27 (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1517476083054710, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4078085952455648, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
       propertyPath: m_RootOrder
@@ -9553,7 +9955,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 64594014414750374, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
 --- !u!1001 &1362413998
@@ -9784,7 +10187,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 64594014414750374, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
 --- !u!4 &1423227550 stripped
@@ -9808,6 +10212,10 @@ PrefabInstance:
     - target: {fileID: 1517476083054710, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
       propertyPath: m_Name
       value: SM_Env_Dwarf_Floor_27 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1517476083054710, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4078085952455648, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
       propertyPath: m_RootOrder
@@ -9882,6 +10290,10 @@ PrefabInstance:
     - target: {fileID: 1048472298825080, guid: 29fc435e87f624c4aa417f109a26bdf2, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Camp_Pot_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1048472298825080, guid: 29fc435e87f624c4aa417f109a26bdf2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4251015593548164, guid: 29fc435e87f624c4aa417f109a26bdf2, type: 3}
       propertyPath: m_RootOrder
@@ -9959,6 +10371,10 @@ PrefabInstance:
     - target: {fileID: 1816856045696520, guid: acf2a50615024db48a3459b5af0f3ff7, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Rug_Stairs_03
+      objectReference: {fileID: 0}
+    - target: {fileID: 1816856045696520, guid: acf2a50615024db48a3459b5af0f3ff7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4104447788474878, guid: acf2a50615024db48a3459b5af0f3ff7, type: 3}
       propertyPath: m_RootOrder
@@ -10093,7 +10509,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 64594014414750374, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
 --- !u!1001 &1474833739
@@ -10107,6 +10524,10 @@ PrefabInstance:
     - target: {fileID: 1159632830481548, guid: 1cc3d3e9ca52b434f858a1b7dab81c60, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Barrel_03 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1159632830481548, guid: 1cc3d3e9ca52b434f858a1b7dab81c60, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4953575555512770, guid: 1cc3d3e9ca52b434f858a1b7dab81c60, type: 3}
       propertyPath: m_RootOrder
@@ -10281,6 +10702,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Bld_Dwarf_Building_02 (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 1660399362315054, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1994536978142960, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4244529776383388, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -10419,7 +10848,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 64594014414750374, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
 --- !u!1001 &1503194032
@@ -10433,6 +10863,10 @@ PrefabInstance:
     - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_Name
       value: SM_Env_Dwarf_Wall_Half_06 (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4906030092485336, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_RootOrder
@@ -10567,7 +11001,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 64594014414750374, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
 --- !u!1001 &1515754696
@@ -10581,6 +11016,10 @@ PrefabInstance:
     - target: {fileID: 1517476083054710, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
       propertyPath: m_Name
       value: SM_Env_Dwarf_Floor_27 (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1517476083054710, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4078085952455648, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
       propertyPath: m_RootOrder
@@ -10650,6 +11089,10 @@ PrefabInstance:
     - target: {fileID: 1517476083054710, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
       propertyPath: m_Name
       value: SM_Env_Dwarf_Floor_27 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1517476083054710, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4078085952455648, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
       propertyPath: m_RootOrder
@@ -10729,6 +11172,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Prop_Camp_Pot_02 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1935125631965176, guid: e2795395678de8149bca23e90ffef6b6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4686304707862940, guid: e2795395678de8149bca23e90ffef6b6, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -10805,6 +11252,14 @@ PrefabInstance:
     - target: {fileID: 1660399362315054, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Dwarf_Building_02 (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1660399362315054, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1994536978142960, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4244529776383388, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
       propertyPath: m_RootOrder
@@ -10981,6 +11436,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Dwarf_Floor_27 (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 1517476083054710, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4078085952455648, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -11140,6 +11599,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Dwarf_Floor_27 (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 1517476083054710, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4078085952455648, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -11274,7 +11737,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 64594014414750374, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
 --- !u!1001 &1687921131
@@ -11345,7 +11809,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 64594014414750374, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
 --- !u!4 &1688042474 stripped
@@ -11421,7 +11886,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 64594014414750374, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
 --- !u!1001 &1706384733
@@ -11582,6 +12048,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Prop_Camp_Pot_02 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1935125631965176, guid: e2795395678de8149bca23e90ffef6b6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4686304707862940, guid: e2795395678de8149bca23e90ffef6b6, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -11668,6 +12138,10 @@ PrefabInstance:
     - target: {fileID: 1517476083054710, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
       propertyPath: m_Name
       value: SM_Env_Dwarf_Floor_27 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1517476083054710, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4078085952455648, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
       propertyPath: m_RootOrder
@@ -11793,7 +12267,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 64594014414750374, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
 --- !u!4 &1780708062 stripped
@@ -11812,6 +12287,10 @@ PrefabInstance:
     - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_Name
       value: SM_Env_Dwarf_Wall_Half_06 (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4906030092485336, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_RootOrder
@@ -11941,7 +12420,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 64594014414750374, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
 --- !u!4 &1795839111 stripped
@@ -11960,6 +12440,10 @@ PrefabInstance:
     - target: {fileID: 1517476083054710, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
       propertyPath: m_Name
       value: SM_Env_Dwarf_Floor_27 (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1517476083054710, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4078085952455648, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
       propertyPath: m_RootOrder
@@ -12034,6 +12518,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Dwarf_Floor_27 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1517476083054710, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4078085952455648, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -12098,9 +12586,17 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1476523914}
     m_Modifications:
+    - target: {fileID: 1150677965094278, guid: c23a7a7d8fbaebf4e9704796bed19744, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1173937446127680, guid: c23a7a7d8fbaebf4e9704796bed19744, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Steel_Pulley_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1173937446127680, guid: c23a7a7d8fbaebf4e9704796bed19744, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4550896738887778, guid: c23a7a7d8fbaebf4e9704796bed19744, type: 3}
       propertyPath: m_RootOrder
@@ -12166,6 +12662,14 @@ PrefabInstance:
     - target: {fileID: 1660399362315054, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
       propertyPath: m_Name
       value: SM_Bld_Dwarf_Building_02 (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1660399362315054, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1994536978142960, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4244529776383388, guid: 256ad2e22fbe2c640a0a7b8fff4519d8, type: 3}
       propertyPath: m_RootOrder
@@ -12234,6 +12738,10 @@ PrefabInstance:
     - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_Name
       value: SM_Env_Dwarf_Wall_Half_06 (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4906030092485336, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_RootOrder
@@ -12363,7 +12871,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 64594014414750374, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
 --- !u!1 &1869027677
@@ -12484,6 +12993,10 @@ PrefabInstance:
     - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_Name
       value: SM_Env_Dwarf_Wall_Half_06 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4906030092485336, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_RootOrder
@@ -12623,7 +13136,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 64594014414750374, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
 --- !u!1001 &1920582047
@@ -12712,6 +13226,10 @@ PrefabInstance:
     - target: {fileID: 1517476083054710, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
       propertyPath: m_Name
       value: SM_Env_Dwarf_Floor_27 (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1517476083054710, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4078085952455648, guid: 2f3e28317728e924eb3b1410019d6bf1, type: 3}
       propertyPath: m_RootOrder
@@ -12838,7 +13356,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 64594014414750374, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
 --- !u!1001 &1927213746
@@ -12852,6 +13371,10 @@ PrefabInstance:
     - target: {fileID: 1036732295046026, guid: c5d0fd61905f2cc4fa755abb630596af, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Barrel_Shelf_Small_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1036732295046026, guid: c5d0fd61905f2cc4fa755abb630596af, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4339745490301560, guid: c5d0fd61905f2cc4fa755abb630596af, type: 3}
       propertyPath: m_RootOrder
@@ -12930,6 +13453,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Dwarf_Wall_Half_06 (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4906030092485336, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -13001,6 +13528,10 @@ PrefabInstance:
     - target: {fileID: 1048472298825080, guid: 29fc435e87f624c4aa417f109a26bdf2, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Camp_Pot_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1048472298825080, guid: 29fc435e87f624c4aa417f109a26bdf2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4251015593548164, guid: 29fc435e87f624c4aa417f109a26bdf2, type: 3}
       propertyPath: m_RootOrder
@@ -13215,7 +13746,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 64594014414750374, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
 --- !u!1001 &1992519786
@@ -13446,7 +13978,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 64594014414750374, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
 --- !u!1001 &2021858626
@@ -13517,7 +14050,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 64594014414750374, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
 --- !u!4 &2024205610 stripped
@@ -13608,7 +14142,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 64594014414750374, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
 --- !u!4 &2052492137 stripped
@@ -13684,7 +14219,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 64594014414750374, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
 --- !u!1001 &2054555095
@@ -13830,7 +14366,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 64594014414750374, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
 --- !u!1001 &2069467565
@@ -13920,6 +14457,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Prop_Camp_Pot_03
       objectReference: {fileID: 0}
+    - target: {fileID: 1136145718988772, guid: 7d9bea75d23cd694fb2d8dc2ba26a350, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4843675906833666, guid: 7d9bea75d23cd694fb2d8dc2ba26a350, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -13996,6 +14537,10 @@ PrefabInstance:
     - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_Name
       value: SM_Env_Dwarf_Wall_Half_06 (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4906030092485336, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_RootOrder
@@ -14166,6 +14711,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Dwarf_Wall_Half_06
       objectReference: {fileID: 0}
+    - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4906030092485336, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -14243,6 +14792,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Prop_Camp_Pot_02
       objectReference: {fileID: 0}
+    - target: {fileID: 1935125631965176, guid: e2795395678de8149bca23e90ffef6b6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4686304707862940, guid: e2795395678de8149bca23e90ffef6b6, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -14319,6 +14872,10 @@ PrefabInstance:
     - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_Name
       value: SM_Env_Dwarf_Wall_Half_06 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1522248183978202, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4906030092485336, guid: 29a0969f3ad5aec4f962a8371b1ed612, type: 3}
       propertyPath: m_RootOrder
@@ -14448,7 +15005,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 64594014414750374, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 31e839c7937d3364aadb5721c5cb1a3f, type: 3}
 --- !u!1001 &2132282844
@@ -14462,6 +15020,10 @@ PrefabInstance:
     - target: {fileID: 1110221913662468, guid: 30cbedbf4109bab4fa1544dfc6084361, type: 3}
       propertyPath: m_Name
       value: SM_Prop_Camp_Pot_05 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1110221913662468, guid: 30cbedbf4109bab4fa1544dfc6084361, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4461836794343694, guid: 30cbedbf4109bab4fa1544dfc6084361, type: 3}
       propertyPath: m_RootOrder
